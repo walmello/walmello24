@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! 👋
+My name is **Walter Melo** i'm a 
+**UX Designer** with coding skills
 
 <!--
 **walmello24/walmello24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
